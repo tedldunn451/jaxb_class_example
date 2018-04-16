@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<class date="04">
+    <location>Memphis</location>
+    <students>
+        <student>Michael</student>
+        <student>Will</student>
+    </students>
+</class>
